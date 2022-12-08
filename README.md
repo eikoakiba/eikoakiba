@@ -6,7 +6,7 @@
 
 ### <p align="center"> Programing Language </p>
 * Python
-* c++
+* C++
 
 ### <p align="center" > TODO </p>
 * LainOS
