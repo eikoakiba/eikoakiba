@@ -8,3 +8,4 @@
 * LainOS
 * pikiTerm ( wiki pedia on terminal )
 * PDLP Monitor (<a href="https://pdlp.neocities.org">pdlp.neocities.org</a>)
+* LainOS Welcome Program (privat)
