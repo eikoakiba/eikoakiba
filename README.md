@@ -8,3 +8,4 @@
 * LainOS
 * pikiTerm
 * PDL & Monitor
+* SELMMO
