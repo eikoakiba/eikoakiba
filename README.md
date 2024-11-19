@@ -5,7 +5,7 @@
 
 ### <h1 align="center">👾 Hello There 👾</h1>
 
-I'm Eiko Akiba. A geek, computer lover and programmer. backend programming, low level programming, game development are the things that I love the most.
+I'm Eiko Akiba. A geek, computer lover and programmer. backend programming, low level programming, game development are the things that I like the most.
 Japanese calture is so special for me. and I have a dream to live in japan.
 You can check out my [website](https://eikoakiba.neocities.org) if you want to know more about me.
 
