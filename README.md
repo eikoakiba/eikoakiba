@@ -24,6 +24,7 @@ Have Fun Coding and _remember_ to touch some grass sometimes ^^
 
 ### At the Moment
 * Godot Game Engine
+* _Lain_ minimal lisp dialect
 * TicketMaster
 * Jash
 * staticy
