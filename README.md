@@ -23,8 +23,5 @@ Have Fun Coding and _remember_ to touch some grass sometimes ^^
 ![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 ### At the Moment
-* Godot Game Engine
-* _Lain_ minimal lisp dialect
-* TicketMaster
-* Jash
+* psm
 * staticy
