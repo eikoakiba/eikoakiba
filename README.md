@@ -6,6 +6,7 @@
 ### <h1 align="center">👾 Hello There 👾</h1>
 
 I'm r1ch4rd, a geek, computer lover and programmer.
+
 You can check out my [website](https://eikoakiba.neocities.org) if you want to know more about me.
 
 Have Fun Coding and _remember_ to touch some grass sometimes ^^
