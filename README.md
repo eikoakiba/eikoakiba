@@ -9,7 +9,7 @@ I'm r1ch4rd, a geek, computer lover and programmer.
 
 You can check out my [website](https://eikoakiba.neocities.org) if you want to know more about me.
 
-Have Fun Coding and _remember_ to touch some grass sometimes ^^
+Have Fun Coding and _always remember_ to touch some grass sometimes ^^
 
 [![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Eikoakiba__)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/eikoakiba)
